@@ -1,6 +1,10 @@
 # Welcome to my GitHub! <3
 Hi, I'm a rising junior @ Brown CS & Behavioral Decision Sciences. I am passionate about integrating and applying tech applications in human behaviors, mindfulness, and accessibility. </br>
 
+# Contacts:
+* LinkedIn: [hayzie-chu](https://linkedin.com/in/hayzie-chu)
+* Mail: [nhi_chu@brown.edu](mailto:nhi_chu@brown.edu)
+
 What I'm up to:
 * Intern: SWE @ ETGE's Mindfulness Lab Cloud Platform
 * Project: [Cachelab](https://github.com/hayzie-chu/cachelab), a semantic caching npm package that reduces your AI token usages, boosts agent performance, and collects operational metrics for understanding the tradeoffs behind AI system decisions
@@ -13,9 +17,5 @@ What I'm up to:
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hayzie-chu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) </br>
 ![](https://streak-stats.demolab.com/?user=hayzie-chu&theme=dark&hide_border=false)
-
-# Contacts:
-* LinkedIn: [hayzie-chu](https://linkedin.com/in/hayzie-chu)
-* Mail: [nhi_chu@brown.edu](mailto:nhi_chu@brown.edu)
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
